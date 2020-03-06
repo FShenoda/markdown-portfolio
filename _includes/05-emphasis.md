@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Using _Italics_ and __Emphasis__ like charm :tada:
+Using *Italics* and **Emphasis** like charm :+1:
+
+
+**Best thing is actually *mixing* them up**
